@@ -1,5 +1,5 @@
 # Prodigy_ML_03
-Certainly! Here's a template for the GitHub README file:
+
 
 ---
 
